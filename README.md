@@ -2,6 +2,4 @@
 
 Project 1:
 
-here we import, clean, analyse the data given in two csv files - observations.csv and species_info.csv
-
-the code with details and comments is in the jupyter notebook biodiversity.ipynb 
+\item \textbf{Biodiversity Data Analysis Project:} Implemented a comprehensive data analysis project using \textbf{pandas}, \textbf{seaborn}, and \textbf{matplotlib}. Cleaned and processed data from two CSV files, namely observations.csv and species_info.csv, addressing missing values and ensuring data quality. The entire analysis, including code details and comments, is documented in the Jupyter Notebook: \href{link/to/biodiversity.ipynb}{\textcolor{blue}{biodiversity.ipynb}}.
